@@ -28,4 +28,4 @@ Para mais informações sobre mim,acesse minhas redes sociais:
 <img align="center" alt="html5" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 <br/>
-Apaoixonado por tecnologia,granduando em Ciência da Computação-UFES
+Apaixonado por tecnologia,estudante de Computação-UFES
